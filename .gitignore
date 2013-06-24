@@ -31,3 +31,4 @@ tests/Microsoft.AspNet.SignalR.Client.JS.Tests/CommandLineBridge.js
 *.vspx
 *.log.txt
 /tests/Microsoft.AspNet.SignalR.FunctionalTests/artifacts/
+.nuget
